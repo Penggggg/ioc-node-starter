@@ -1,0 +1,28 @@
+{
+  "name": "rc-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inversify": "^4.3.0",
+    "koa": "^2.3.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-logs-full": "^0.0.8",
+    "koa-router": "^7.2.1",
+    "reflect-metadata": "^0.1.10",
+    "routing-controllers": "^0.7.2",
+    "superagent": "^3.6.0"
+  },
+  "devDependencies": {
+    "@types/koa": "^2.0.39",
+    "@types/koa-bodyparser": "^3.0.25",
+    "@types/koa-router": "^7.0.23",
+    "@types/node": "^8.0.28",
+    "@types/superagent": "^3.5.5"
+  }
+}

@@ -1,0 +1,531 @@
+[37mStarted DELETE   /users/123 for ::1at Thu Sep 14 2017 15:37:31 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37m  [35mbody[37m:{}[39m
+[37mCompleted in 8ms  200
+
+[39m
+[37mStarted DELETE   /users/123 for ::1at Thu Sep 14 2017 15:38:47 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37m  [35mbody[37m:{}[39m
+[37mCompleted in 6ms  200
+
+[39m
+[37mStarted DELETE   /users/123 for ::1at Thu Sep 14 2017 15:38:49 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37m  [35mbody[37m:{}[39m
+[37mCompleted in 3ms  200
+
+[39m
+[37mStarted DELETE   /users/123 for ::1at Thu Sep 14 2017 15:41:12 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37m  [35mbody[37m:{}[39m
+[37mCompleted in 7ms  200
+
+[39m
+[37mStarted DELETE   /users/123 for ::1at Thu Sep 14 2017 15:42:52 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37m  [35mbody[37m:{}[39m
+[37mCompleted in 7ms  200
+
+[39m
+[37mStarted DELETE   /users/123 for ::1at Thu Sep 14 2017 15:43:08 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37m  [35mbody[37m:{}[39m
+[37mCompleted in 7ms  200
+
+[39m
+[37mStarted DELETE   /users/123 for ::1at Thu Sep 14 2017 15:43:10 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37m  [35mbody[37m:{}[39m
+[37mCompleted in 5ms  200
+
+[39m
+[37mStarted DELETE   /users/123 for ::1at Thu Sep 14 2017 15:43:49 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37m  [35mbody[37m:{}[39m
+[37mCompleted in 8ms  200
+
+[39m
+[37mStarted DELETE   /users/123 for ::1at Thu Sep 14 2017 15:46:40 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 12ms  404
+
+[39m
+[37mStarted DELETE   /users/123 for ::1at Thu Sep 14 2017 15:46:43 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 2ms  404
+
+[39m
+[37mStarted DELETE   /users/123 for ::1at Thu Sep 14 2017 15:49:15 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 18ms  200
+
+[39m
+[37mStarted DELETE   /users/123 for ::1at Thu Sep 14 2017 15:49:29 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 16ms  200
+
+[39m
+[37mStarted DELETE   /users/123 for ::1at Thu Sep 14 2017 15:49:44 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 15ms  200
+
+[39m
+[37mStarted DELETE   /users/123 for ::1at Thu Sep 14 2017 15:50:44 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 16ms  200
+
+[39m
+[37mStarted DELETE   /users/123 for ::1at Thu Sep 14 2017 15:50:59 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 17ms  200
+
+[39m
+[37mStarted DELETE   /users/123 for ::1at Thu Sep 14 2017 15:51:33 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 9ms  404
+
+[39m
+[37mStarted DELETE   /api/users/123 for ::1at Thu Sep 14 2017 15:51:37 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 6ms  200
+
+[39m
+[37mStarted DELETE   /api/users/123 for ::1at Thu Sep 14 2017 15:51:39 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 1ms  200
+
+[39m
+[37mStarted DELETE   /api/users/123 for ::1at Thu Sep 14 2017 15:51:41 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 1ms  200
+
+[39m
+[37mStarted DELETE   /api/users/123 for ::1at Thu Sep 14 2017 15:51:42 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 1ms  200
+
+[39m
+[37mStarted DELETE   /api/test/users/123 for ::1at Thu Sep 14 2017 15:53:20 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 10ms  404
+
+[39m
+[37mStarted DELETE   /test/users/123 for ::1at Thu Sep 14 2017 15:53:34 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 2ms  404
+
+[39m
+[37mStarted DELETE   /api/haha/users/123 for ::1at Thu Sep 14 2017 15:53:43 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 5ms  200
+
+[39m
+[37mStarted DELETE   /api/users/123 for ::1at Thu Sep 14 2017 15:54:16 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 16ms  200
+
+[39m
+[37mStarted PUT   /api/users/123 for ::1at Thu Sep 14 2017 15:54:25 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 2ms  200
+
+[39m
+[37mStarted GET   /api/users/123?name=hzp for ::1at Thu Sep 14 2017 15:58:05 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{"name":"hzp"}[39m
+[37mCompleted in 18ms  200
+
+[39m
+[37mStarted GET   /api/users/123?name=hzp for ::1at Thu Sep 14 2017 15:58:08 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{"name":"hzp"}[39m
+[37mCompleted in 2ms  200
+
+[39m
+[37mStarted GET   /api/users/123?name=hzp for ::1at Thu Sep 14 2017 15:58:10 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{"name":"hzp"}[39m
+[37mCompleted in 0ms  200
+
+[39m
+[37mStarted GET   /api/users/123?name=hzp for ::1at Thu Sep 14 2017 15:58:12 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{"name":"hzp"}[39m
+[37mCompleted in 0ms  200
+
+[39m
+[37mStarted GET   /api/users/123?name=hzp for ::1at Thu Sep 14 2017 15:58:28 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{"name":"hzp"}[39m
+[37mCompleted in 15ms  200
+
+[39m
+[37mStarted POST   /api/user for ::1at Thu Sep 14 2017 16:00:27 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 28ms  404
+
+[39m
+[37mStarted POST   /api/users for ::1at Thu Sep 14 2017 16:00:34 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 9ms  200
+
+[39m
+[37mStarted POST   /api/users for ::1at Thu Sep 14 2017 16:03:06 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 30ms  200
+
+[39m
+[37mStarted PUT   /api/users for ::1at Thu Sep 14 2017 16:03:16 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 3ms  405
+
+[39m
+[37mStarted POST   /api/users for ::1at Thu Sep 14 2017 16:03:26 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 3ms  400
+
+[39m
+[37mStarted POST   /api/users for ::1at Thu Sep 14 2017 16:03:31 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 0ms  400
+
+[39m
+[37mStarted POST   /api/users for ::1at Thu Sep 14 2017 16:03:45 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 1ms  400
+
+[39m
+[37mStarted GET   /api/users for ::1at Thu Sep 14 2017 16:04:32 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 13ms  200
+
+[39m
+[37mStarted GET   /api/users for ::1at Thu Sep 14 2017 16:04:55 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 17ms  302
+
+[39m
+[37mStarted GET   /api/users for ::1at Thu Sep 14 2017 16:05:05 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 5ms  302
+
+[39m
+[37m[33mwarn:not match c print style,skiped.
+[37mStarted GET   /api/this%20action%20returns%20all%20users for ::1at Thu Sep 14 2017 16:05:05 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 2ms  404
+
+[39m
+[37mStarted GET   /api/users for ::1at Thu Sep 14 2017 16:05:18 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 1ms  302
+
+[39m
+[37m[33mwarn:not match c print style,skiped.
+[37mStarted GET   /api/this%20action%20returns%20all%20users for ::1at Thu Sep 14 2017 16:05:18 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 1ms  404
+
+[39m
+[37mStarted GET   /api/users for ::1at Thu Sep 14 2017 16:05:24 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 1ms  302
+
+[39m
+[37m[33mwarn:not match c print style,skiped.
+[37mStarted GET   /api/this%20action%20returns%20all%20users for ::1at Thu Sep 14 2017 16:05:55 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 11ms  404
+
+[39m
+[37mStarted GET   /api/users for ::1at Thu Sep 14 2017 16:06:05 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 11ms  302
+
+[39m
+[37mStarted GET   /api/users for ::1at Thu Sep 14 2017 16:06:19 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 12ms  200
+
+[39m
+[37mStarted GET   /api/users for ::1at Thu Sep 14 2017 16:06:31 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 18ms  302
+
+[39m
+[37mStarted GET   /api/users for ::1at Thu Sep 14 2017 16:06:57 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 14ms  200
+
+[39m
+[37mStarted GET   /api/users for ::1at Thu Sep 14 2017 16:07:51 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 16ms  302
+
+[39m
+[37mStarted GET   /api/users for ::1at Thu Sep 14 2017 16:08:18 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 13ms  201
+
+[39m
+[37mStarted GET   /api/users for ::1at Thu Sep 14 2017 16:10:48 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 20ms  201
+
+[39m
+[37mStarted GET   /api/users for ::1at Thu Sep 14 2017 16:37:48 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 26ms  201
+
+[39m
+[37mStarted GET   /api/users for ::1at Thu Sep 14 2017 16:37:49 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 4ms  201
+
+[39m
+[37mStarted GET   /api/users for ::1at Thu Sep 14 2017 17:01:05 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 2016ms  201
+
+[39m
+[37mStarted GET   /api/users/123 for ::1at Thu Sep 14 2017 17:01:25 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 4ms  200
+
+[39m
+[37mStarted GET   /api/users/123 for ::1at Thu Sep 14 2017 17:02:23 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 13ms  404
+
+[39m
+[37mStarted GET   /api/users/123 for ::1at Thu Sep 14 2017 17:02:28 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 2ms  404
+
+[39m
+[37mStarted GET   /api/users/123 for ::1at Thu Sep 14 2017 17:02:38 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 1ms  404
+
+[39m
+[37mStarted GET   /api/users/123 for ::1at Thu Sep 14 2017 17:02:45 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 1ms  404
+
+[39m
+[37mStarted GET   /api/users/123 for ::1at Thu Sep 14 2017 17:08:23 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 18ms  404
+
+[39m
+[37mStarted GET   /api/users/123 for ::1at Thu Sep 14 2017 17:12:05 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 17ms  400
+
+[39m
+[37mStarted GET   /api/users/123 for ::1at Thu Sep 14 2017 17:27:17 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 16ms  400
+
+[39m
+[37mStarted GET   /api/users/123?name=123 for ::1at Thu Sep 14 2017 17:27:32 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{"name":"123"}[39m
+[37mCompleted in 7ms  200
+
+[39m
+[37mStarted GET   /api/users/123?name=123 for ::1at Thu Sep 14 2017 17:28:39 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{"name":"123"}[39m
+[37mCompleted in 16ms  404
+
+[39m
+[37mStarted GET   /api/users/123?name=123 for ::1at Thu Sep 14 2017 17:28:58 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{"name":"123"}[39m
+[37mCompleted in 5ms  404
+
+[39m
+[37mStarted GET   /api/users/123?name=123 for ::1at Thu Sep 14 2017 17:30:48 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{"name":"123"}[39m
+[37mCompleted in 28ms  500
+
+[39m
+[37mStarted GET   /api/users/123?name=123 for ::1at Thu Sep 14 2017 17:31:39 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{"name":"123"}[39m
+[37mCompleted in 29ms  500
+
+[39m
+[37mStarted POST   /api/users for ::1at Thu Sep 14 2017 17:44:02 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 94ms  200
+
+[39m
+[37mStarted POST   /api/users for ::1at Thu Sep 14 2017 17:44:35 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 53ms  200
+
+[39m
+[37mStarted POST   /api/users for ::1at Thu Sep 14 2017 17:44:36 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 3ms  200
+
+[39m
+[37mStarted POST   /api/users for ::1at Thu Sep 14 2017 17:44:36 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 2ms  200
+
+[39m
+[37mStarted POST   /api/users for ::1at Thu Sep 14 2017 17:44:37 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 2ms  200
+
+[39m
+[37mStarted POST   /api/users for ::1at Thu Sep 14 2017 17:44:37 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 4ms  200
+
+[39m
+[37mStarted GET   /api/users/123 for ::1at Thu Sep 14 2017 17:52:15 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 16ms  400
+
+[39m
+[37mStarted GET   /api/users/123 for ::1at Thu Sep 14 2017 17:52:58 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 16ms  200
+
+[39m
+[37mStarted GET   /api/users for ::1at Thu Sep 14 2017 18:59:37 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 2029ms  201
+
+[39m
+[37mStarted GET   /api/users/234 for ::1at Thu Sep 14 2017 19:07:06 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 6ms  200
+
+[39m
+[37mStarted GET   /api/users/234 for ::1at Thu Sep 14 2017 19:07:17 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 13ms  400
+
+[39m
+[37mStarted GET   /api/users/234?name=23 for ::1at Thu Sep 14 2017 19:07:22 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{"name":"23"}[39m
+[37mCompleted in 8ms  200
+
+[39m
+[37mStarted GET   /api/users for ::1at Thu Sep 14 2017 19:19:22 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 13ms  404
+
+[39m
+[37mStarted GET   /api/users/234?name=23 for ::1at Thu Sep 14 2017 19:19:28 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{"name":"23"}[39m
+[37mCompleted in 7ms  200
+
+[39m
+[37mStarted GET   /api/users for ::1at Thu Sep 14 2017 19:19:30 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 1ms  404
+
+[39m
+[37mStarted GET   /api/users for ::1at Thu Sep 14 2017 19:20:01 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 1ms  404
+
+[39m
+[37mStarted GET   /api/users for ::1at Thu Sep 14 2017 19:22:05 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 2024ms  201
+
+[39m
+[37mStarted GET   /api/users for ::1at Thu Sep 14 2017 19:22:15 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 2005ms  201
+
+[39m
+[37mStarted GET   /api/users for ::1at Thu Sep 14 2017 19:24:59 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 19ms  404
+
+[39m
+[37mStarted GET   /api/users for ::1at Thu Sep 14 2017 19:25:05 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 4ms  404
+
+[39m
+[37mStarted GET   /api/users for ::1at Thu Sep 14 2017 19:26:33 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 14ms  404
+
+[39m
+[37mStarted GET   /api/users for ::1at Thu Sep 14 2017 19:27:54 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 13ms  404
+
+[39m
+[37mStarted GET   /api/users for ::1at Thu Sep 14 2017 19:27:57 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 4ms  404
+
+[39m
+[37mStarted GET   /api/users for ::1at Thu Sep 14 2017 19:27:57 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 0ms  404
+
+[39m
+[37mStarted GET   /api/users for ::1at Thu Sep 14 2017 19:27:58 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 0ms  404
+
+[39m
+[37mStarted GET   /api/users for ::1at Thu Sep 14 2017 19:28:02 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 1ms  404
+
+[39m
+[37mStarted GET   /api/users for ::1at Thu Sep 14 2017 19:28:03 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 3ms  404
+
+[39m
+[37mStarted GET   /api/users for ::1at Thu Sep 14 2017 19:31:00 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 1022ms  404
+
+[39m
+[37mStarted GET   /api/users for ::1at Thu Sep 14 2017 19:31:22 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 1007ms  404
+
+[39m
+[37mStarted GET   /api/users for ::1at Thu Sep 14 2017 19:31:43 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 1030ms  404
+
+[39m
+[37mStarted DELETE   /api/users/123 for ::1at Thu Sep 14 2017 19:43:09 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 19ms  200
+
+[39m
+[37mStarted DELETE   /api/users/123 for ::1at Thu Sep 14 2017 19:44:12 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 1020ms  200
+
+[39m
+[37mStarted DELETE   /api/users/123 for ::1at Thu Sep 14 2017 19:44:16 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 1007ms  200
+
+[39m
+[37mStarted DELETE   /api/users/123 for ::1at Thu Sep 14 2017 19:44:20 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 1006ms  200
+
+[39m
+[37mStarted DELETE   /api/users/123 for ::1at Thu Sep 14 2017 19:44:30 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 2022ms  200
+
+[39m
+[37mStarted GET   /api/users for ::1at Thu Sep 14 2017 19:52:07 GMT+0800 (CST)[39m
+[37m  [35mquery[37m:{}[39m
+[37mCompleted in 1013ms  404
+
+[39m
